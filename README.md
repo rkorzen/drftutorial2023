@@ -14,3 +14,7 @@
 ## Przejśc na ViewSet w cars
 
 ## Wprowadzi routery w cars
+
+## Napisz model w animals tak by zdac test
+
+
