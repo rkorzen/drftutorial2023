@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     # aplikacje nasze
     "snippets",
     "cars",
+    "animals",
 ]
 
 MIDDLEWARE = [
